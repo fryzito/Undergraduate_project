@@ -1,3 +1,4 @@
+// begin 
 string search;
 ifstream inFile;
 string line;
