@@ -23,3 +23,4 @@ while(inFile.good())
             break;
         }
   }
+// please try to aggretate more code :)
