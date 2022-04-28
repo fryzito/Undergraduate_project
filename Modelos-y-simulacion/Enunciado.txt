@@ -1,0 +1,1 @@
+Cada vez que un componente se prueba, resultados de la prueba en el exito
